@@ -1,0 +1,35 @@
+#logo {
+  background: url(./winter.png) no-repeat 50% 50% /cover;
+  width:102%;
+  padding: 100px 0;
+  text-align: center;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+ }
+#logotext{
+  font-size:  40px;
+  color:#fff;
+
+}
+#text-decoration-line{
+  text-decoration-line: none;
+}
+#text-line-margin{
+  float:left;
+  margin-right: 150px;
+  
+}
+#ulcss{
+  list-style:none;
+
+}
+#section-img{
+  width:102%;
+  height: 800px;
+  margin-top:20px;
+}
+#index-text{
+  text-decoration-line:none;
+}
+
